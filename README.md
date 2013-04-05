@@ -1,4 +1,4 @@
-WebChatDefault-0617
-===================
+WebChatDefault-1
+================
 
-Socket.IO chat app for WAWS with node 0.6.17
+Tests the side-by-side NPM infrastructure for the default version of node.js.  Uses a package.json without a 0.6.17 engine entry.
